@@ -1,4 +1,4 @@
-# 👩‍💻 Valeria Nicols Olivares Chiroque
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=30&pause=1000&color=F7A7DD&width=435&lines=HOLI!;I'm+Valeria+Olivares+)](https://git.io/typing-svg)
 
 🎓 Estudiante de Ingeniería de Sistemas | Área TI y Desarrollo Web  
 📍 Piura, Perú
@@ -49,3 +49,5 @@ PHP · JavaScript · React · Firebase
 ## 📫 Contacto
 - ✉️ Email: valolivaresch@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/valeria-olivares-2a72851a5
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=30&pause=1000&color=F7A7DD&width=435&lines=HOLI!;I'm+Valeria+Olivares+" alt="Typing SVG" /></a>
