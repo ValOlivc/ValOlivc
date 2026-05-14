@@ -1,17 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=30&pause=1000&color=F7A7DD&width=435&lines=HOLI!;I'm+Valeria+Olivares+)](https://git.io/typing-svg)
 
-🎓 Estudiante de Ingeniería de Sistemas | Área TI y Desarrollo Web  
-📍 Piura, Perú
+Estudiante de Ingeniería de Sistemas | Área TI y Desarrollo Web  
+Piura, Perú
 
-Soy estudiante de último ciclo de Ingeniería de Sistemas, interesada en el desarrollo de soluciones tecnológicas aplicadas a entornos reales, especialmente en el ámbito educativo y administrativo.  
-Tengo experiencia desarrollando sistemas web utilizando PHP, JavaScript y React, integrados con servicios en la nube como Firebase.
+Estudiante de último ciclo de Ingeniería de Sistemas con enfoque en desarrollo web y soluciones tecnológicas aplicadas a entornos reales.
+Me especializo en construir sistemas funcionales, bien estructurados y orientados al usuario — desde plataformas administrativas hasta landing pages de alto impacto.
 
-Me caracterizo por estructurar proyectos de forma comprensible, enfocándome en la funcionalidad, el orden del código y la mejora continua.
 
+## Stack tecnológico
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,php,firebase,mysql,github,vscode,figma,css,firebase)](https://skillicons.dev)
+
+
+## Proyecto destacado
+### Mesa de Partes Digital – Colegio San Miguel (Piura)
 ---
-
-## 🚀 Proyecto destacado
-### 📄 Mesa de Partes Digital – Colegio San Miguel (Piura)
 
 Sistema web desarrollado para la gestión digital de documentos administrativos en una institución educativa.
 
@@ -27,26 +29,31 @@ PHP · JavaScript · React · Firebase
 
 🔗 Repositorio: https://github.com/ValOlivc/mesapartes-sm
 
+### Zentrix — Landing page moderna
 ---
+Landing page de alto impacto visual con fondo animado de partículas, carrusel coverflow y diseño sci-fi oscuro.
 
-## 🛠️ Tecnologías y herramientas
+*Stack: React 19 · Vite 8 · tsParticles · Swiper · CSS*
+
+## Tecnologías y herramientas
 - **Lenguajes:** PHP, JavaScript, SQL  
 - **Frontend:** React  
 - **Servicios en la nube:** Firebase  
 - **Bases de datos:** MySQL / Firebase / SQLserver
 - **Herramientas:** Git, GitHub, VS Code  
 
----
 
-## 📈 Actualmente enfocada en
+
+## Actualmente enfocada en
 - Mejora de estructura y orden de proyectos
 - Buenas prácticas en desarrollo web
 - Integración de servicios en la nube
 - Fortalecer conocimientos en el área de TI
+- Desarrollo de interfaces modernas con React
 
 ---
 
-## 📫 Contacto
-- ✉️ Email: valolivaresch@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/valeria-olivares-2a72851a5
+## Contacto
+- Email: valolivaresch@gmail.com 
+- LinkedIn: www.linkedin.com/in/valeria-olivares-2a72851a5
 
