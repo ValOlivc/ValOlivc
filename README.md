@@ -8,8 +8,11 @@ Me especializo en construir sistemas funcionales, bien estructurados y orientado
 
 
 ## Stack tecnológico
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,php,firebase,mysql,github,vscode,figma,css,firebase)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,php,html,firebase,mysql,github,vscode,figma,css,firebase" />
+  </a>
+</p>
 
 ## Proyecto destacado
 ### Mesa de Partes Digital – Colegio San Miguel (Piura)
