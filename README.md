@@ -28,7 +28,11 @@ Sistema web desarrollado para la gestión digital de documentos administrativos 
 - Interfaz web responsive
 
 **Tecnologías utilizadas:**
-PHP · JavaScript · React · Firebase
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,react,firebase" />
+  </a>
+</p>
 
 🔗 Repositorio: https://github.com/ValOlivc/mesapartes-sm
 
