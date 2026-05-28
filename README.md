@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=30&pause=1000&color=F7A7DD&width=500&lines=holi+✦;soy+Valeria+Olivares+☆;girl+who+codes+♡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=30&pause=1000&color=F7A7DD&width=500&lines=Holi+✦;soy+Valeria+Olivares+☆;Girl+who+codes+♡)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/ingeniería_de_sistemas-˚｡⋆-F7A7DD?style=flat-square&labelColor=2d1b3d" />
@@ -8,44 +8,44 @@
 
 ---
 
-⋆ ˚｡⋆୨୧ estudiante de último ciclo con enfoque en desarrollo web y soluciones tecnológicas aplicadas a entornos reales.
-me especializo en construir sistemas funcionales, bien estructurados y orientados al usuario —
+⋆ ˚｡⋆୨୧ Estudiante de último ciclo con enfoque en desarrollo web y soluciones tecnológicas aplicadas a entornos reales.
+Me especializo en construir sistemas funcionales, bien estructurados y orientados al usuario —
 desde plataformas administrativas hasta landing pages de alto impacto ‧₊˚⊹♡
 
 ---
 
-## ☆⋆｡𖦹°‧★ stack tecnológico
+## ☆⋆｡𖦹°‧★ Stack tecnológico
 
-**‧₊˚⊹ frontend**
+**‧₊˚⊹ Frontend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
-**⋆｡°✩ backend & bases de datos**
+**⋆｡°✩ Backend & bases de datos**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
 </p>
 
-**˚｡⋆ herramientas & diseño**
+**˚｡⋆ Herramientas & diseño**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## ˚｡⋆୨୧⋆ actualmente enfocada en
+## ˚｡⋆୨୧⋆ Actualmente enfocada en
 
 ```txt
-☆ mejora de estructura y orden de proyectos
-★ buenas prácticas en desarrollo web
-☆ integración de servicios en la nube
-★ interfaces modernas con react
-☆ fortalecer conocimientos en TI
+☆ Mejora de estructura y orden de proyectos
+★ Buenas prácticas en desarrollo web
+☆ Integración de servicios en la nube
+★ Interfaces modernas con react
+☆ Fortalecer conocimientos en TI
 ```
 
 ---
 
-## ♡⋆｡° contacto
+## ♡⋆｡° Contacto
 
 <p align="center">
   <a href="mailto:valolivaresch@gmail.com">
