@@ -57,5 +57,5 @@ desde plataformas administrativas hasta landing pages de alto impacto ‧₊˚�
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ValOlivc&color=c084fc&style=flat-square&label=✦+visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ValOlivc&color=c084fc&style=flat-square />
 </p>
